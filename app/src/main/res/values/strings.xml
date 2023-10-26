@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Dodi UTS PAM</string>
+    <string name="nama">Dodi Rifai Sihombing</string>
+    <string name="nim">123</string>
+    <string name="greetings">Facebook</string>
+    <string name="desc_app">Enjoy Surfing In Social Media</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+
+    <string name="label_user">Username: </string>
+    <string name="label_pass">Password: </string>
+    <string name="hint_user">Input username</string>
+    <string name="hint_pass">Input password</string>
+
+    <string name="greetings_dashboard">Welcome to Dashboard</string>
+    <string name="greetings_profile">Welcome to Profile</string>
+
+    <string name="back">Back</string>
+    <string name="no_account">Or Register</string>
+    <string name="have_account">Or Login</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="profile">Profile</string>
+</resources>
